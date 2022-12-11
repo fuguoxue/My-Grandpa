@@ -1,4 +1,4 @@
-# My-Grandpa
+# My Grandpa
 <img src="VideoCover.png" style="align: center; width: 70%;" />
 My Grandpa is a first-person hypertext interactive fiction about a girl trying to learn about her grandpa, who passed away years ago. The game is developed using Twine Engine. 
 
